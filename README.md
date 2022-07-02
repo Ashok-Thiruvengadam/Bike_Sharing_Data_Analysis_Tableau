@@ -47,18 +47,32 @@ Dashboard 1
 This dashbaord gives an oberview of registered vs casual riders, how windspeed affects riders and how humidity affects riders
 
 We also wanted to take a look at humidity as well to gain an understanding of how that may affect ridership. As we can see in the graph to the top, right, humidity is not correlated to temperature. This is the case across all seasons:
+
 *click on other seasons.
 However, humidity does show a relationship to the dataset’s weather classification. Here we see that overall humitity is lowest during clear sky conditions, increases in cloudy conditions, and is highest during rainfall events. We also see that humidity also as a relationship to season, with winter being the most humid month, and spring being the least humid month. We also both from this vizualazation on the one on the bottom, that ridership is affect both by weather type and humidity. Ridership is higher on clear sky, less humid days, and lowerst on high humidity, heavy precipitation days. 
+
 This led us to belieive that ridership increasas humidity decreases, so we took a look at this distrubution of ridership by humidity, and found that that’s not necessarilty the case, as this ridership by humidity was more normally distributed. 
+
 *adjust the humidity to 0-0.5. 
+
 It would appear that ridership tends to increase with humidity, until a high humidity becomes associated with a rainfall event, and then ridership decreases. 
+
 We also wanted to look at how timing may affect ridership
+
 According to our treemap at the bottom, leftt corner, Saturdays and Sundays had the highest ridership. This was an interesting finding becaause as we saw in our previous dahsbord, more riders are register riders than casual riders, and we may have expected higher instances of ridership during the work weeks, as register riders may use shared bikes to commute to work. We found this was likely not the case. 
+
 Our top vizualization shows a heatmap by month, and by day type including hOlidays, weekdays, and weekends. We see ridership is higher during the summer months, and lower during the colder, winter months. We also see users are generally not more likely to use bikes on holidays, with the expection of the 4th of July. 
+
 *click on holiday filter. 
+
 This may be due to most holidays happening on Mondays which typically shows lower ridership
+
 Our area map at the bottom right corner shows ridership by year. We see our same trend of higher ridership during summer months, and lower ridership during winter months. 
+
 There also appears to be a an increase in ridership from 2011 to 2012. 
+
 *filter by year
+
 In both years, a weekend day has the highest ridership, so it still appears bike sharing is not used predomintantly for commuting, which would be a targeted market for increasing use. 
+
 Finally we have predicted the total number of riders, casual andregistered riders for 2012 and 2013
